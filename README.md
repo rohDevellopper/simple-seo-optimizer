@@ -25,7 +25,10 @@ A simple WordPress plugin to optimize SEO for your posts and pages. This plugin 
 
 ## Screenshot(s)
 
-![SEO Meta Information Meta Box](https://example.com/screenshots/screenshot1.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot1.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot2.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot3.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot4.png)
 *This is a screenshot of the SEO Meta Information meta box in the post editor.*
 
 ## Changelog
