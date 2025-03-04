@@ -54,8 +54,8 @@ Simple SEO Optimizer is a lightweight WordPress plugin that helps you optimize y
 
 == Screenshots ==
 
-1. ![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot1.png)
-2. ![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/master/screenshots/screenshot2.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/main/screenshots/screenshot1.png)
+![SEO Meta Information Meta Box](https://github.com/rohDevellopper/simple-seo-optimizer/blob/main/screenshots/screenshot2.png)
    *This is a screenshot of the SEO Meta Information meta box in the post editor.*
 
 == Changelog ==
